@@ -1,0 +1,15 @@
+Tottenham-vs-Leeds-Shot-Analysis/
+│
+├── data/
+│   └── "tottenham_vs_leeds.csv"
+│
+├── visuals/
+│   ├── shot_map.png
+│   └── heatmap.png
+│       app22.py
+├── notebooks/
+│   └── analysis.ipynb
+│
+├── README.md
+│
+└── requirements.txt
