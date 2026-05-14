@@ -1,7 +1,5 @@
 Python
 Pandas
 Matplotlib
-mplsoccer
-Seaborn
 streamlit
 
